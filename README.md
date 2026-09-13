@@ -9,6 +9,6 @@ I allows you to connect your own AI provider from:
 
 Pay-what-you-want for personal use and a small annual subscription for enterprise.
 
-Check it out on [folienbaukasten](christoph.bodner.deno.net/folienbaukasten)
+Check it out on [https://folienbaukasten](christoph.bodner.deno.net/folienbaukasten)
 
 or get a license on [Polar.sh](https://buy.polar.sh/polar_cl_gvFFBctPv1XvqPI1l2iIJRoP9AtE8s8SsSkF30IZk0j)
